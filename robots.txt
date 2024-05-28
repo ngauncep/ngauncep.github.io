@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ngauncep.github.io/a/sitemap.html
+Sitemap: https://ngauncep.github.io/b/sitemap.html
+Sitemap: https://ngauncep.github.io/c/sitemap.html
+Sitemap: https://ngauncep.github.io/d/sitemap.html
